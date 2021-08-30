@@ -1,2 +1,3 @@
 # hello_world
-create project helloworld
+hi world
+I am Tung, i like video game lol, i like meat
